@@ -6,7 +6,7 @@
 using namespace std;
 //#write your code here
 
-
+cout<<"hello
 
 
 
